@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanyaEngineer
-- 👀 I’m interested in Chemical Engineering 
+- 👀 I’m interested in Systems Engineering 
 - 🌱 I’m currently learning ALX Software Engineering
 - 📫 Reach me on tanyaradzwamaribini@gmail.com
 
